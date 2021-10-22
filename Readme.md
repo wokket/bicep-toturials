@@ -10,5 +10,5 @@
 - Playground for hacking: https://bicepdemo.z22.web.core.windows.net/
 - Very complete demo: https://docs.microsoft.com/en-us/learn/modules/introduction-to-infrastructure-as-code-using-bicep
 - Sample templates to get rolling: https://github.com/Azure/bicep/tree/main/docs/examples
-
+- Visualizer for resources
 
